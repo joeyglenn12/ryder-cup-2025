@@ -54,6 +54,18 @@ Top 10 Selections:
 
 Weighted Scoring: 
 
+                 statistical_score  performance_score  total_score
+displayName                                                       
+Justin Thomas             5.969453           9.450000     7.709726
+Keegan Bradley            6.000890           6.628345     6.314617
+Collin Morikawa           7.087251           5.141914     6.114583
+Patrick Cantlay           6.963894           5.007159     5.985527
+Sam Burns                 6.879032           4.884164     5.881598
+Cameron Young             4.840150           6.502946     5.671548
+Kurt Kitayama             7.583254           3.164817     5.374036
+Chris Gotterup            7.994196           2.670651     5.332423
+Brian Harman              5.087453           4.785392     4.936423
+Akshay Bhatia             6.425794           3.016069     4.720932
 
 ## Data Visualization
 
