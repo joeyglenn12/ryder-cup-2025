@@ -1,5 +1,3 @@
-# ryder-cup-2025
-
 # US Ryder Cup Team Selection 2025 - Case Study
 
 This project aims to determine the best candidates to be selected for the US Ryder Cup Team for 2025 by analyzing golfer data for the year.
