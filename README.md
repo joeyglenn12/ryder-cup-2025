@@ -26,13 +26,13 @@ Auto Qualify:
 
 | Name | Points | 
 | --------------- | --------------- |
-| Scottie Scheffler | 7,456 | 
-| J.J. Spaun | 3,493 | 
-| Ben Griffin| 2,798 | 
-| Russell Henley | 2,795 | 
-| Maverick McNealy | 2,547 | 
-| Harris English | 2,512 | 
-
+| Scottie Scheffler | 37,180 | 
+| J.J. Spaun | 14,851 | 
+| Xander Schauffele | 13,733 | 
+| Russell Henley | 12,276 | 
+| Harris English | 10,880 | 
+| Bryson DeChambeau | 10,774 | 
+Source: https://www.rydercup.com/rankings
 
 Top 10 Selections:
 
