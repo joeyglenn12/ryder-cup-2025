@@ -51,25 +51,73 @@ Top 10 Selections:
 | 9    | Brian Harman    | 4,977,660 | 22     | 83   | 20   | 4     | 1    | 70.4  | 295.0 | 63.2 | 65.3 | 1.763 | 78.86        | 18.2%  | 4.5%  |
 | 10   | Akshay Bhatia   | 4,154,687 | 23     | 77   | 18   | 4     | 0    | 70.0  | 298.1 | 61.8 | 67.6 | 1.724 | 61.26        | 17.4%  | 0.0%  |
 
+# Scoring Methodology
 
-Weighted Scoring: 
+## 1. 📊 Statistical Score
 
-                 statistical_score  performance_score  total_score
-displayName                                                       
-Justin Thomas             5.969453           9.450000     7.709726
-Keegan Bradley            6.000890           6.628345     6.314617
-Collin Morikawa           7.087251           5.141914     6.114583
-Patrick Cantlay           6.963894           5.007159     5.985527
-Sam Burns                 6.879032           4.884164     5.881598
-Cameron Young             4.840150           6.502946     5.671548
-Kurt Kitayama             7.583254           3.164817     5.374036
-Chris Gotterup            7.994196           2.670651     5.332423
-Brian Harman              5.087453           4.785392     4.936423
-Akshay Bhatia             6.425794           3.016069     4.720932
+This score is based on a player's in-game statistics. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
 
-## Data Visualization
+### Metrics Used:
 
-Other metrics were used, please see [dashboard](https://public.tableau.com/app/profile/joseph.glenn/viz/RyderCupCandidates-CareerStats2020-Present_16816755026570/RyderCup-CaseStudy).
+- Score (inverted, lower is better)  
+- GIR (Greens in Regulation)  
+- DDIS (Driving Distance)  
+- DACC (Driving Accuracy)  
+- BIRDS (Birdies)  
+- PUTTS (inverted)  
+
+### Weighting:
+
+- Score – 30%  
+- GIR – 30%  
+- DDIS – 15%  
+- DACC – 15%  
+- BIRDS – 5%  
+- PUTTS – 5%  
+
+---
+
+## 2. 🏆 Performance Score
+
+This score reflects how a player performs in tournaments. Metrics were scaled and weighted accordingly:
+
+### Metrics Used:
+
+- Points per Event  
+- Top 10 Finishes  
+- Wins (with additional bonus)  
+- Earnings  
+- Cuts Made  
+
+### Weighting:
+
+- Points per Event – 40%  
+- Top 10s – 20%  
+- Wins – 30% + bonus  
+- Earnings – 5%  
+- Cuts – 5%  
+
+---
+
+## 3. 🧮 Total Score
+
+A final `total_score` is calculated as a weighted average of the two previous scores:
+total_score = 0.5 * statistical_score + 0.5 * performance_score
+
+
+| Player Name     | Statistical Score | Performance Score | Total Score |
+| --------------- | ----------------- | ----------------- | ----------- |
+| Justin Thomas   | 5.97              | 9.45              | 7.71        |
+| Keegan Bradley  | 6.00              | 6.63              | 6.31        |
+| Collin Morikawa | 7.09              | 5.14              | 6.11        |
+| Patrick Cantlay | 6.96              | 5.01              | 5.99        |
+| Sam Burns       | 6.88              | 4.88              | 5.88        |
+| Cameron Young   | 4.84              | 6.50              | 5.67        |
+| Kurt Kitayama   | 7.58              | 3.16              | 5.37        |
+| Chris Gotterup  | 7.99              | 2.67              | 5.33        |
+| Brian Harman    | 5.09              | 4.79              | 4.94        |
+| Akshay Bhatia   | 6.43              | 3.02              | 4.72        |
+
 
 ## Conclusion
-Based on the analysis, the recommendation is that US Ryder Cup Captain, Zach Johnson, selects the top six ranked players in this list. These players have a combination of the highest performance metrics and wins in the overall pool. However, there are numerous factors that can affect final selection, including movement of the players that automatically qualified, overall team chemistry, experience, and character. 
+Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players. Justin Thomas is a key outlier and is the highest confidence pick. Keegan Bradley should also elect himself (as a player and captain). Strong contenders include Collin Morikawa and Patrick Cantlay, both of which have Ryder Cup experience. Both Morikawa and Cantlay posted strong total scores without a single win in the 2025 season. The model elects Sam Burns and Cameron Young for the fifth and sixth positions. However, these positions are more contentional. Cameron Young has not the lowest stats in the group, but has been playing notably strong to finish the season. 
