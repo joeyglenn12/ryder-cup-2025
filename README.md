@@ -119,3 +119,4 @@ total_score = 0.5 * statistical_score + 0.5 * performance_score
 
 ## Conclusion
 Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players. Justin Thomas is a key outlier and is the highest confidence pick. Keegan Bradley should also elect himself (as a player and captain). Strong contenders include Collin Morikawa and Patrick Cantlay, both of which have Ryder Cup experience. Both Morikawa and Cantlay posted strong total scores without a single win in the 2025 season. The model elects Sam Burns and Cameron Young for the fifth and sixth positions. However, these positions are more contentional. Cameron Young has not the lowest stats in the group, but has been playing notably strong to finish the season. 
+
