@@ -53,7 +53,7 @@ Top 10 Selections:
 
 ## 1. 📊 Statistical Score
 
-This score is based on a player's in-game statistics. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
+This score is based on a player's in-game statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
 
 ### Metrics Used:
 
