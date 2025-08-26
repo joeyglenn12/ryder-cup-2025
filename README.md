@@ -54,7 +54,7 @@ Top 10 Selections based on 2025 performance (not Ryder Cup points):
 
 ## 1. 📊 2025 Statistical Rating
 
-This rating is based on a player's statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its importance.
+This rating is based on a player's statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its importance. Score and GIR are more indicative of play than putts per round. A player could miss a green often but capitalize on short game, resulting in less putts per round. Additionally, driving distance and accuracy are weighted heavily given Bethpage will require long and accurate tee shots for competitive play.
 
 ### Metrics Used:
 
