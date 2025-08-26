@@ -51,9 +51,9 @@ Top 10 Selections based on 2025 performance (not Ryder Cup points):
 
 # Scoring Methodology
 
-## 1. 📊 Statistical Score
+## 1. 📊 2025 Statistical Rating
 
-This score is based on a player's in-game statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
+This rating is based on a player's in-game statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
 
 ### Metrics Used:
 
@@ -75,7 +75,7 @@ This score is based on a player's in-game statistics for the 2025 season. Each s
 
 ---
 
-## 2. 🏆 Performance Score
+## 2. 🏆 2025 Performance Rating
 
 This score reflects how a player performs in tournaments. Metrics were scaled and weighted accordingly:
 
@@ -118,5 +118,11 @@ total_score = 0.5 * statistical_score + 0.5 * performance_score
 
 
 ## Conclusion
-Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players. Justin Thomas is a key outlier and is the highest confidence pick. Keegan Bradley should also elect himself (as a player and captain). Strong contenders include Collin Morikawa and Patrick Cantlay, both of which have Ryder Cup experience. Both Morikawa and Cantlay posted strong total scores without a single win in the 2025 season. The model elects Sam Burns and Cameron Young for the fifth and sixth positions. However, these positions are more contentional. Cameron Young has not the lowest stats in the group, but has been playing notably strong to finish the season. 
+Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players:
+1. Justin Thomas - Justin Thomas is a key outlier and is the highest confidence pick
+2. Keegan Bradley - Keegan Bradley should also elect himself (as a player and captain). 
+3. Collin Moriakwa - High GIR's and low scores boost the statistical score. Ryder Cup experience is a plus.
+4. Patrick Cantlay - Strong player on paper with Ryder Cup experience.
+5. Sam Burns - Strong stats in a model that doesn't weight putting heavily, which is perhaps his best strength.
+6. Cameron Young - The weakest stats in the group but a strong performer. Finishing the season strong could make Cameron Young a more attractive pick.
 
