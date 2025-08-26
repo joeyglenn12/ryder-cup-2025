@@ -20,7 +20,7 @@ Several techniques were used to identify top candidates, including:
 The Ryder Cup team is comprised of twelve golfers total. Six golfers automatically qualify on total Fedex points. 
 The other six golfers are picked by the Ryder Cup captain.
 
-As of August 23, 2025:
+As of August 25, 2025:
 
 Auto Qualify:
 
@@ -36,18 +36,19 @@ Source: https://www.rydercup.com/rankings
 
 Top 10 Selections based on 2025 performance (not Ryder Cup points):
 
-| Rank | Name            | Earnings  | Events | Rnds | Cuts | Top10 | Wins | Score | DDIS  | DACC | GIR  | PUTTS | Points/Event | Top10% | Wins% |
-| ---- | --------------- | --------- | ------ | ---- | ---- | ----- | ---- | ----- | ----- | ---- | ---- | ----- | ------------ | ------ | ----- |
-| 1    | Justin Thomas   | 9,761,829 | 19     | 72   | 18   | 7     | 1    | 69.8  | 304.9 | 53.7 | 65.4 | 1.683 | 130.37       | 36.8%  | 5.3%  |
-| 2    | Keegan Bradley  | 7,581,145 | 20     | 76   | 19   | 5     | 1    | 70.1  | 306.2 | 61.4 | 65.9 | 1.746 | 99.60        | 25.0%  | 5.0%  |
-| 3    | Collin Morikawa | 7,302,227 | 18     | 64   | 16   | 4     | 0    | 70.1  | 296.5 | 70.7 | 68.8 | 1.747 | 91.94        | 22.2%  | 0.0%  |
-| 4    | Patrick Cantlay | 5,052,606 | 18     | 66   | 16   | 4     | 0    | 70.0  | 305.4 | 59.3 | 69.9 | 1.739 | 92.28        | 22.2%  | 0.0%  |
-| 5    | Sam Burns       | 5,564,815 | 23     | 86   | 21   | 5     | 0    | 69.7  | 307.2 | 60.6 | 66.4 | 1.715 | 81.35        | 21.7%  | 0.0%  |
-| 6    | Cameron Young   | 5,991,646 | 23     | 79   | 17   | 6     | 1    | 70.3  | 313.5 | 53.8 | 63.5 | 1.711 | 94.96        | 26.1%  | 4.3%  |
-| 7    | Kurt Kitayama   | 3,360,156 | 22     | 66   | 14   | 4     | 1    | 69.3  | 318.1 | 56.1 | 67.4 | 1.725 | 59.00        | 18.2%  | 4.5%  |
-| 8    | Chris Gotterup  | 4,101,304 | 26     | 83   | 17   | 3     | 1    | 69.4  | 316.7 | 54.2 | 70.3 | 1.761 | 54.38        | 11.5%  | 3.8%  |
-| 9    | Brian Harman    | 4,977,660 | 22     | 83   | 20   | 4     | 1    | 70.4  | 295.0 | 63.2 | 65.3 | 1.763 | 78.86        | 18.2%  | 4.5%  |
-| 10   | Akshay Bhatia   | 4,154,687 | 23     | 77   | 18   | 4     | 0    | 70.0  | 298.1 | 61.8 | 67.6 | 1.724 | 61.26        | 17.4%  | 0.0%  |
+| Rank | Name              | Earnings  | Events | Rnds | Cuts | Top10 | Wins | Score | DDIS  | DACC | GIR  | PUTTS | Points/Event | Top10% | Wins% |
+|------|-------------------|-----------|--------|------|------|-------|------|--------|--------|------|------|--------|----------------|--------|--------|
+| 1    | Justin Thomas     | 10,883,495| 20     | 76   | 18   | 8     | 1    | 69.6   | 305.2  | 54.0 | 65.5 | 1.679  | 123.85         | 40.0%  | 5.0%   |
+| 2    | Ben Griffin       | 9,990,352 | 28     | 96   | 21   | 10    | 2    | 69.4   | 305.5  | 59.1 | 68.5 | 1.745  | 99.93          | 35.7%  | 7.1%   |
+| 3    | Maverick McNealy  | 8,207,075 | 24     | 88   | 20   | 7     | 0    | 69.9   | 306.4  | 58.9 | 67.4 | 1.750  | 106.13         | 29.2%  | 0.0%   |
+| 4    | Keegan Bradley    | 8,702,812 | 21     | 80   | 19   | 6     | 1    | 69.9   | 306.4  | 61.4 | 66.0 | 1.742  | 94.86          | 28.6%  | 4.8%   |
+| 5    | Cameron Young     | 8,608,313 | 24     | 83   | 17   | 7     | 1    | 70.1   | 313.6  | 54.5 | 63.7 | 1.705  | 91.00          | 29.2%  | 4.2%   |
+| 6    | Patrick Cantlay   | 9,405,106 | 19     | 70   | 16   | 5     | 0    | 69.8   | 306.1  | 59.9 | 70.0 | 1.730  | 87.42          | 26.3%  | 0.0%   |
+| 7    | Collin Morikawa   | 7,754,727 | 19     | 68   | 16   | 4     | 0    | 70.0   | 296.8  | 71.0 | 68.9 | 1.745  | 87.11          | 21.1%  | 0.0%   |
+| 8    | Sam Burns         | 6,686,482 | 24     | 90   | 21   | 6     | 0    | 69.6   | 307.4  | 60.7 | 66.0 | 1.711  | 77.96          | 25.0%  | 0.0%   |
+| 9    | Chris Gotterup    | 4,816,304 | 27     | 87   | 17   | 4     | 1    | 69.3   | 316.9  | 54.9 | 70.4 | 1.757  | 52.37          | 14.8%  | 3.7%   |
+| 10   | Kurt Kitayama     | 3,360,156 | 22     | 66   | 14   | 4     | 1    | 69.3   | 318.1  | 56.1 | 67.4 | 1.725  | 59.00          | 18.2%  | 4.5%   |
+
 
 # Scoring Methodology
 
@@ -103,26 +104,25 @@ A final `total_score` is calculated as a weighted average of the two previous sc
 total_score = 0.5 * statistical_score + 0.5 * performance_score
 
 
-| Player Name     | Statistical Score | Performance Score | Total Score |
-| --------------- | ----------------- | ----------------- | ----------- |
-| Justin Thomas   | 5.97              | 9.45              | 7.71        |
-| Keegan Bradley  | 6.00              | 6.63              | 6.31        |
-| Collin Morikawa | 7.09              | 5.14              | 6.11        |
-| Patrick Cantlay | 6.96              | 5.01              | 5.99        |
-| Sam Burns       | 6.88              | 4.88              | 5.88        |
-| Cameron Young   | 4.84              | 6.50              | 5.67        |
-| Kurt Kitayama   | 7.58              | 3.16              | 5.37        |
-| Chris Gotterup  | 7.99              | 2.67              | 5.33        |
-| Brian Harman    | 5.09              | 4.79              | 4.94        |
-| Akshay Bhatia   | 6.43              | 3.02              | 4.72        |
+| Player Name        | Statistical Score | Performance Score | Total Score |
+|--------------------|-------------------|--------------------|-------------|
+| Ben Griffin        | 7.50              | 8.33               | 7.92        |
+| Justin Thomas      | 6.27              | 9.00               | 7.63        |
+| Maverick McNealy   | 6.24              | 6.95               | 6.59        |
+| Keegan Bradley     | 6.26              | 6.43               | 6.34        |
+| Patrick Cantlay    | 7.35              | 5.11               | 6.23        |
+| Collin Morikawa    | 7.25              | 4.77               | 6.01        |
+| Sam Burns          | 6.87              | 4.70               | 5.79        |
+| Cameron Young      | 5.19              | 6.30               | 5.74        |
+| Chris Gotterup     | 8.19              | 2.70               | 5.44        |
+| Kurt Kitayama      | 7.51              | 2.96               | 5.23        |
 
 
 ## Conclusion
 Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players:
-1. Justin Thomas - Justin Thomas is a key outlier and is the highest confidence pick
-2. Keegan Bradley - Keegan Bradley should also elect himself (as a player and captain). 
-3. Collin Moriakwa - High GIR's and low scores boost the statistical score. Ryder Cup experience is a plus.
-4. Patrick Cantlay - Strong player on paper with Ryder Cup experience.
-5. Sam Burns - Strong stats in a model that doesn't weight putting heavily, which is perhaps his best strength.
-6. Cameron Young - The weakest stats in the group but a strong performer. Finishing the season strong could make Cameron Young a more attractive pick.
-
+1. Ben Griffin - Leads the table in statistical score with two wins this season (Zurich and Scwhab).
+2. Justin Thomas - Won RBC Heritage and placed in the top 10 eight times.
+3. Maverick McNealy - No wins but signficant performances. Second at The Genesis and third at Valero, RBC, and the BMW Championship.
+4. Keegan Bradley - Win at the Traveler's. Keegan Bradley should attend the cup (as a player AND captain). 
+5. Patrick Cantlay - No wins this year, but all around strong player with Ryder Cup experience.
+6. Collin Morikawa - The most accurate player off the tee and the third highest GIR % in the group. Ryder cup experience is a plus. 
