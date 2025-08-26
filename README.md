@@ -13,7 +13,7 @@ Several techniques were used to identify top candidates, including:
 * Data Cleaning: Cleaned the data to remove missing or inaccurate data points and ensure consistency. 
 * Exploratory Data Analysis: Conducted data analysis to understand the distribution of the data and identify any outliers or anomalies.
 * Feature Engineering: Created new features, such as win percentage per event, to better capture golfer performance.
-* Weighted scoring: Developed a scaled scoring model that normalizes key performance metrics and statistical data, allowing for the calculation of numerical scores to rank players consistently across all categories.
+* Weighted Scoring: Developed a scaled scoring model that normalizes key performance metrics and statistical data, allowing for the calculation of numerical scores to rank players consistently across all categories.
 
 ## Results
 
