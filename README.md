@@ -10,10 +10,10 @@ This data includes fields such as total Earnings, Fedex Cup Points, and individu
 ## Methodology
 
 Several techniques were used to identify top candidates, including:
-* Data Cleaning: I cleaned the data to remove missing or inaccurate data points and ensure consistency. 
-* Exploratory Data Analysis: I conducted data analysis to understand the distribution of the data and identify any outliers or anomalies.
-* Feature Engineering: I created new features, such as win percentage per event, to better capture golfer performance.
-* Weighted scoring: I developed a scaled scoring model that normalizes key performance metrics and statistical data, allowing for the calculation of numerical scores to rank players consistently across all categories.
+* Data Cleaning: Cleaned the data to remove missing or inaccurate data points and ensure consistency. 
+* Exploratory Data Analysis: Conducted data analysis to understand the distribution of the data and identify any outliers or anomalies.
+* Feature Engineering: Created new features, such as win percentage per event, to better capture golfer performance.
+* Weighted scoring: Developed a scaled scoring model that normalizes key performance metrics and statistical data, allowing for the calculation of numerical scores to rank players consistently across all categories.
 
 ## Results
 
@@ -54,7 +54,7 @@ Top 10 Selections based on 2025 performance (not Ryder Cup points):
 
 ## 1. 📊 2025 Statistical Rating
 
-This rating is based on a player's in-game statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its predictive importance.
+This rating is based on a player's statistics for the 2025 season. Each stat was normalized using MinMaxScaler, then weighted according to its importance.
 
 ### Metrics Used:
 
@@ -63,7 +63,7 @@ This rating is based on a player's in-game statistics for the 2025 season. Each 
 - DDIS (Driving Distance)  
 - DACC (Driving Accuracy)  
 - BIRDS (Birdies)  
-- PUTTS (inverted)  
+- PUTTS (inverted, lower is better)  
 
 ### Weighting:
 
