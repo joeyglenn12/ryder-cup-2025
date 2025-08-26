@@ -118,7 +118,7 @@ total_score = 0.5 * statistical_score + 0.5 * performance_score
 | Kurt Kitayama      | 7.51              | 2.96               | 5.23        |
 
 
-## Conclusion
+## Recommendation
 Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players:
 1. Ben Griffin - Leads the table in statistical score with two wins this season (Zurich and Scwhab).
 2. Justin Thomas - Won RBC Heritage and placed in the top 10 eight times.
