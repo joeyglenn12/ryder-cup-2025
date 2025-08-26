@@ -34,7 +34,7 @@ Auto Qualify:
 | Bryson DeChambeau | 10,774 | 
 Source: https://www.rydercup.com/rankings
 
-Top 10 Selections:
+Top 10 Selections based on 2025 performance (not Ryder Cup points):
 
 | Rank | Name            | Earnings  | Events | Rnds | Cuts | Top10 | Wins | Score | DDIS  | DACC | GIR  | PUTTS | Points/Event | Top10% | Wins% |
 | ---- | --------------- | --------- | ------ | ---- | ---- | ----- | ---- | ----- | ----- | ---- | ---- | ----- | ------------ | ------ | ----- |
