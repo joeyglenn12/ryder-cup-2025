@@ -18,7 +18,7 @@ Several techniques were used to identify top candidates, including:
 ## Results
 
 The Ryder Cup team is comprised of twelve golfers total. Six golfers automatically qualify on total Fedex points. 
-The other six golfers are picked by the Ryder Cup captain.
+The other six golfers are picked by the Ryder Cup captain, Keegan Bradley.
 
 As of August 25, 2025:
 
