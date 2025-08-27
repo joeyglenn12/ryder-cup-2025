@@ -120,7 +120,7 @@ total_score = 0.5 * statistical_score + 0.5 * performance_score
 
 ## Recommendation
 Based on the analysis, the recommendation is that US Ryder Cup Captain, Keegan Bradley, selects the following players:
-1. Ben Griffin - Leads the table in statistical score with two wins this season (Zurich and Scwhab).
+1. Ben Griffin - Leads the table in total score with two wins this season (Zurich and Scwhab).
 2. Justin Thomas - Won RBC Heritage and placed in the top 10 eight times.
 3. Maverick McNealy - No wins but signficant performances. Second at The Genesis and third at Valero, RBC, and the BMW Championship.
 4. Keegan Bradley - Win at the Traveler's. Keegan Bradley should attend the cup (as a player AND captain). 
